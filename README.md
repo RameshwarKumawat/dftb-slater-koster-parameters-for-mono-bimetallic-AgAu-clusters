@@ -6,7 +6,10 @@ This repository contains ground state (GS) and excited state (ES) Slater-Koster 
 - **GSSK/** – Ground state Slater-Koster files
 - **ESSK/** – Excited state Slater-Koster files
 - **INPUT_files/** – Example DFTB+ input files
-- **ESI_files.rar** – Supporting information archive
+- **AgAu19/** – XYZ files for the octahedral (Oct) silver and gold (19-atom) nanoclusters
+- **AgAu20alloys/** – XYZ files for the tetrahedra (Td) silver and gold (19-atom) nanoclusters and AgAu nanoalloys
+- **AgAu38alloys/** – XYZ files for the truncated octahedron (TOh) silver and gold (38-atom) nanoclusters and AgAu nanoalloys
+- **AgAu55alloys/** – XYZ files for the icosahedra (Ih) silver and gold (55-atom) nanoclusters and AgAu nanoalloys
 
 ## Supporting Files Description
 
