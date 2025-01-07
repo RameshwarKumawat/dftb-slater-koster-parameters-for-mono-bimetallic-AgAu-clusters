@@ -50,8 +50,8 @@ If you use these files in your research, please cite:
   title = {Efficient Modeling of Structural, Electronic, and Optical Properties of Silver and Gold Metal Nanoclusters and Alloys Using Optimized SCC-DFTB Parameters},
   journal = {Journal of Physical Chemistry C},
   year = {2025},
-  volume = {44},
-  number = {3},
-  pages = {123-135},
+  volume = {xx},
+  number = {x},
+  pages = {x-x},
   doi = {000}
 }
