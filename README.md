@@ -13,7 +13,7 @@ This repository contains ground state (GS) and excited state (ES) Slater-Koster 
 
 ## Supporting Files Description
 
-The GS and ES Slater-Koster parameter files, containing the final parameters for monometallic and bimetallic clusters, are included in the `ESI_files.rar` folder.
+The GS and ES Slater-Koster parameter files, containing the final parameters for monometallic and bimetallic clusters, are included in the `GSSK` and `ESSK` folders.
 
 ### Ground State Slater-Koster Files
 The `GSSK` folder contains the Slater-Koster parameter files for ground state calculations:
