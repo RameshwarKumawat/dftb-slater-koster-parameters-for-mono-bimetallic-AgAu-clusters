@@ -41,7 +41,7 @@ Example input files for running ground state and excited state calculations are 
 If you use these files in your research, please cite:
 
 **Kumawat and Schatz, Efficient Modeling of Structural, Electronic, and Optical Properties of Silver and Gold Metal Nanoclusters and Alloys Using Optimized SCC-DFTB Parameters, *Journal of Physical Chemistry C*, 2025**  
-[![DOI](https://zenodo.org/badge/DOI/000.svg)](https://doi.org/000)
+[![DOI](https://zenodo.org/badge/DOI/10.1021/acs.jpcc.4c08100.svg)](https://doi.org/10.1021/acs.jpcc.4c08100)
 
 ### BibTeX:
 ```bibtex
@@ -53,5 +53,5 @@ If you use these files in your research, please cite:
   volume = {xx},
   number = {x},
   pages = {x-x},
-  doi = {000}
+  doi = {https://doi.org/10.1021/acs.jpcc.4c08100}
 }
