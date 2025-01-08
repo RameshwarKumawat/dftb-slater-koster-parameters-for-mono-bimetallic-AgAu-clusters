@@ -53,5 +53,6 @@ If you use these files in your research, please cite:
   volume = {xx},
   number = {x},
   pages = {x-x},
-  doi = {https://doi.org/10.1021/acs.jpcc.4c08100}
+  doi = {10.1021/acs.jpcc.4c08100}
+  publisher={ACS Publications}
 }
