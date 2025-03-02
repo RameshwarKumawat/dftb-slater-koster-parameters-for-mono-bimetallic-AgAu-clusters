@@ -45,7 +45,7 @@ If you use these files in your research, please cite:
 
 ### BibTeX:
 ```bibtex
-@article{kumawat2025dftb,
+@article{kumawat2025efficient,
   author = {Kumawat, Rameshwar and Schatz, George},
   title = {Efficient Modeling of Structural, Electronic, and Optical Properties of Silver and Gold Metal Nanoclusters and Alloys Using Optimized SCC-DFTB Parameters},
   journal = {Journal of Physical Chemistry C},
